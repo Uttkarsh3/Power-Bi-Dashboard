@@ -43,5 +43,7 @@ The dashboard incorporates a variety of visual elements to provide meaningful in
 
 ## Screenshot
 
-![Blinkitt Power BI Dashboard](screenshot/1.JPG)
+<div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
+  <img src="screenshot/Dashboard.JPG" alt="Dashboard Overview" width="30%" style="border: 2px solid black; margin: 10px 0;" />
+</div>
 
